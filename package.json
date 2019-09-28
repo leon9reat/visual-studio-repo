@@ -1,0 +1,25 @@
+{
+  "name": "visual-studio-repo",
+  "version": "1.0.0",
+  "description": "test git repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon9reat/visual-studio-repo.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "bambang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leon9reat/visual-studio-repo/issues"
+  },
+  "homepage": "https://github.com/leon9reat/visual-studio-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
